@@ -1,0 +1,2 @@
+g++ plariza.cpp -o plariza
+./plariza.exe 'name.txt'
